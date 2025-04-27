@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Chess_Programming.Properties {
+namespace Chess_Usercontrol.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Chess_Programming.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Chess_Programming.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Chess_Usercontrol.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -60,176 +60,614 @@ namespace Chess_Programming.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap addd {
+        internal static System.Drawing.Bitmap Black_B_1 {
             get {
-                object obj = ResourceManager.GetObject("addd", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_B_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap address {
+        internal static System.Drawing.Bitmap Black_B_2 {
             get {
-                object obj = ResourceManager.GetObject("address", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_B_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Apply {
+        internal static System.Drawing.Bitmap Black_B_3 {
             get {
-                object obj = ResourceManager.GetObject("Apply", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_B_3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Black_N {
+        internal static System.Drawing.Bitmap Black_B_4 {
             get {
-                object obj = ResourceManager.GetObject("Black_N", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_B_4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap BlackR {
+        internal static System.Drawing.Bitmap Black_B_5 {
             get {
-                object obj = ResourceManager.GetObject("BlackR", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_B_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Cancel {
+        internal static System.Drawing.Bitmap Black_C_0 {
             get {
-                object obj = ResourceManager.GetObject("Cancel", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Chess_Titans_Icon {
+        internal static System.Drawing.Bitmap Black_C_1 {
             get {
-                object obj = ResourceManager.GetObject("Chess_Titans_Icon", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap contact {
+        internal static System.Drawing.Bitmap Black_C_1_Last {
             get {
-                object obj = ResourceManager.GetObject("contact", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_1_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap DigitClock {
+        internal static System.Drawing.Bitmap Black_C_1_Possible {
             get {
-                object obj = ResourceManager.GetObject("DigitClock", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_1_Possible", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Editpage {
+        internal static System.Drawing.Bitmap Black_C_2 {
             get {
-                object obj = ResourceManager.GetObject("Editpage", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Exit {
+        internal static System.Drawing.Bitmap Black_C_2_Last {
             get {
-                object obj = ResourceManager.GetObject("Exit", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_2_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Exit1 {
+        internal static System.Drawing.Bitmap Black_C_2_Possible {
             get {
-                object obj = ResourceManager.GetObject("Exit1", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_2_Possible", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap ImageCapture {
+        internal static System.Drawing.Bitmap Black_C_3 {
             get {
-                object obj = ResourceManager.GetObject("ImageCapture", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Leftright {
+        internal static System.Drawing.Bitmap Black_C_3_Last {
             get {
-                object obj = ResourceManager.GetObject("Leftright", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_3_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap logo {
+        internal static System.Drawing.Bitmap Black_C_3_Possible {
             get {
-                object obj = ResourceManager.GetObject("logo", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_3_Possible", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap logoBW {
+        internal static System.Drawing.Bitmap Black_C_4 {
             get {
-                object obj = ResourceManager.GetObject("logoBW", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Monitors {
+        internal static System.Drawing.Bitmap Black_C_4_Last {
             get {
-                object obj = ResourceManager.GetObject("Monitors", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_4_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.IO.UnmanagedMemoryStream NewGame {
+        internal static System.Drawing.Bitmap Black_C_4_Possible {
             get {
-                return ResourceManager.GetStream("NewGame", resourceCulture);
-            }
-        }
-        
-        internal static System.Drawing.Bitmap physical_education_256 {
-            get {
-                object obj = ResourceManager.GetObject("physical_education_256", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_4_Possible", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap physical_education_save_256 {
+        internal static System.Drawing.Bitmap Black_C_5 {
             get {
-                object obj = ResourceManager.GetObject("physical_education_save_256", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Pinion {
+        internal static System.Drawing.Bitmap Black_C_5_Last {
             get {
-                object obj = ResourceManager.GetObject("Pinion", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_5_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Savedata {
+        internal static System.Drawing.Bitmap Black_C_5_Possible {
             get {
-                object obj = ResourceManager.GetObject("Savedata", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_5_Possible", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Stop {
+        internal static System.Drawing.Bitmap Black_C_6 {
             get {
-                object obj = ResourceManager.GetObject("Stop", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap Undo {
+        internal static System.Drawing.Bitmap Black_C_6_Last {
             get {
-                object obj = ResourceManager.GetObject("Undo", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_6_Last", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
-        internal static System.Drawing.Bitmap White_N {
+        internal static System.Drawing.Bitmap Black_C_6_Possible {
             get {
-                object obj = ResourceManager.GetObject("White_N", resourceCulture);
+                object obj = ResourceManager.GetObject("Black_C_6_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_C_7 {
+            get {
+                object obj = ResourceManager.GetObject("Black_C_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_C_7_Last {
+            get {
+                object obj = ResourceManager.GetObject("Black_C_7_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_C_7_Possible {
+            get {
+                object obj = ResourceManager.GetObject("Black_C_7_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_K_1 {
+            get {
+                object obj = ResourceManager.GetObject("Black_K_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_K_2 {
+            get {
+                object obj = ResourceManager.GetObject("Black_K_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_K_3 {
+            get {
+                object obj = ResourceManager.GetObject("Black_K_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_K_4 {
+            get {
+                object obj = ResourceManager.GetObject("Black_K_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_K_5 {
+            get {
+                object obj = ResourceManager.GetObject("Black_K_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_N_1 {
+            get {
+                object obj = ResourceManager.GetObject("Black_N_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_N_2 {
+            get {
+                object obj = ResourceManager.GetObject("Black_N_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_N_3 {
+            get {
+                object obj = ResourceManager.GetObject("Black_N_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_N_4 {
+            get {
+                object obj = ResourceManager.GetObject("Black_N_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_N_5 {
+            get {
+                object obj = ResourceManager.GetObject("Black_N_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_P_1 {
+            get {
+                object obj = ResourceManager.GetObject("Black_P_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_P_2 {
+            get {
+                object obj = ResourceManager.GetObject("Black_P_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_P_3 {
+            get {
+                object obj = ResourceManager.GetObject("Black_P_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_P_4 {
+            get {
+                object obj = ResourceManager.GetObject("Black_P_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_P_5 {
+            get {
+                object obj = ResourceManager.GetObject("Black_P_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_Q_1 {
+            get {
+                object obj = ResourceManager.GetObject("Black_Q_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_Q_2 {
+            get {
+                object obj = ResourceManager.GetObject("Black_Q_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_Q_3 {
+            get {
+                object obj = ResourceManager.GetObject("Black_Q_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_Q_4 {
+            get {
+                object obj = ResourceManager.GetObject("Black_Q_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_Q_5 {
+            get {
+                object obj = ResourceManager.GetObject("Black_Q_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_R_1 {
+            get {
+                object obj = ResourceManager.GetObject("Black_R_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_R_2 {
+            get {
+                object obj = ResourceManager.GetObject("Black_R_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_R_3 {
+            get {
+                object obj = ResourceManager.GetObject("Black_R_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_R_4 {
+            get {
+                object obj = ResourceManager.GetObject("Black_R_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Black_R_5 {
+            get {
+                object obj = ResourceManager.GetObject("Black_R_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.IO.UnmanagedMemoryStream Capture {
+            get {
+                return ResourceManager.GetStream("Capture", resourceCulture);
+            }
+        }
+        
+        internal static System.IO.UnmanagedMemoryStream Move {
+            get {
+                return ResourceManager.GetStream("Move", resourceCulture);
+            }
+        }
+        
+        internal static System.IO.UnmanagedMemoryStream Say_check {
+            get {
+                return ResourceManager.GetStream("Say_check", resourceCulture);
+            }
+        }
+        
+        internal static System.IO.UnmanagedMemoryStream Say_checkmate {
+            get {
+                return ResourceManager.GetStream("Say_checkmate", resourceCulture);
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_B_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_B_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_B_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_B_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_B_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_B_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_B_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_B_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_B_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_B_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_1_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_1_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_1_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_1_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_2_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_2_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_2_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_2_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_3_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_3_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_3_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_3_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_4_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_4_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_4_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_4_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_5_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_5_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_5_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_5_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_6 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_6_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_6_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_6_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_6_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_7 {
+            get {
+                object obj = ResourceManager.GetObject("White_C_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_7_Last {
+            get {
+                object obj = ResourceManager.GetObject("White_C_7_Last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_C_7_Possible {
+            get {
+                object obj = ResourceManager.GetObject("White_C_7_Possible", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_K_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_K_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_K_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_K_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_K_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_K_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_K_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_K_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_K_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_K_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_N_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_N_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -241,9 +679,128 @@ namespace Chess_Programming.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap Wrong {
+        internal static System.Drawing.Bitmap White_N_3 {
             get {
-                object obj = ResourceManager.GetObject("Wrong", resourceCulture);
+                object obj = ResourceManager.GetObject("White_N_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_N_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_N_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_N_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_N_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_P_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_P_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_P_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_P_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_P_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_P_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_P_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_P_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_P_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_P_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_Q_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_Q_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_Q_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_Q_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_Q_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_Q_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_Q_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_Q_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_Q_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_Q_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_R_1 {
+            get {
+                object obj = ResourceManager.GetObject("White_R_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_R_2 {
+            get {
+                object obj = ResourceManager.GetObject("White_R_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_R_3 {
+            get {
+                object obj = ResourceManager.GetObject("White_R_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_R_4 {
+            get {
+                object obj = ResourceManager.GetObject("White_R_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap White_R_5 {
+            get {
+                object obj = ResourceManager.GetObject("White_R_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
