@@ -3,4 +3,4 @@ Repository Structure Overview
 
 ---
 
-1.Chat LAN sử dụng socket C#2/TCP_Private_Clie
+1.Chat LAN sử dụng socket C#2/TCP_Private_Clien
