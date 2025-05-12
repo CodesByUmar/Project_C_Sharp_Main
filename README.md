@@ -5,7 +5,7 @@
 
 <h3>1.Chat LAN sử dụng socket C#2/TCP_Private_Client</h3>
 <br>
-<p♦ Implements a LAN chat application using TCP sockets in C#. This project demonstrates network programming concepts, including client-server architecture and socket communication.
+<p>♦ Implements a LAN chat application using TCP sockets in C#. This project demonstrates network programming concepts, including client-server architecture and socket communication.</p>
 <br>
 <h3>2. Chat trong mạng LAN C#</h3>
 <br>
