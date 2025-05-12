@@ -3,4 +3,4 @@ Repository Structure Overview
 
 ---
 
-1.Chat LAN sử dụng socke
+1.Chat LAN sử dụng socket
