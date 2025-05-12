@@ -11,4 +11,4 @@
 <br>
 <h3>3. Chuyển đổi các hệ cơ số C#</h3>
 <br>
-<p>A number base conversion tool that allows users to convert numbers between different bases (e.g., binary, deximal, hexadecimal). Useful for learning about numeral systems and their conversion
+<p>A number base conversion tool that allows users to convert numbers between different bases (e.g., binary, deximal, hexadecimal). Useful for learning about numeral systems and their conversions
