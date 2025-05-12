@@ -7,4 +7,4 @@
 <br>
 <h3>2. Chat trong mạng LAN C#</h3>
 <br>
-<p>Another LAN chat application, possibly with different features of implementation compared to the previous one. It reinforc
+<p>Another LAN chat application, possibly with different features of implementation compared to the previous one. It reinforce
