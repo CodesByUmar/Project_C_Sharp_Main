@@ -7,4 +7,4 @@
 <br>
 ♦ Implements a LAN chat application using TCP sockets in C#. This project demonstrates network programming concepts, including client-server architecture and socket communication.
 <br>
-<h3>Ch</h3>
+<h3>Cha</h3>
