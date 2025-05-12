@@ -5,4 +5,4 @@ Repository Structure Overview
 
 1.Chat LAN sử dụng socket C#2/TCP_Private_Client
 <br>
-♦ Implements a LAN chat application using TCP sockets in C#.
+♦ Implements a LAN chat application using TCP sockets in C#. T
