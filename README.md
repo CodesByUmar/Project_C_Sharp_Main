@@ -14,4 +14,4 @@
 <p>A number base conversion tool that allows users to convert numbers between different bases (e.g., binary, deximal, hexadecimal). Useful for learning about numeral systems and their conversions.</p>
 <br>
 <h3>Game Sondoku C#</h3>
-A Sudoku game implemented in C#, focusing on game logic, user interface design, and possibly puzzle generation and validation algorithms.</p>
+<A Sudoku game implemented in C#, focusing on game logic, user interface design, and possibly puzzle generation and validation algorithms.</p>
