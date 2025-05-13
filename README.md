@@ -10,6 +10,6 @@
 <p>A Sudoku game implemented in C#, focusing on game logic, user interface design, and possibly puzzle generation and validation algorithms.</p><br>
 <h3>5. Game cờ cá ngựa C#</h3>
 <p>♦ A Ludo game(known as"cờ cá ngựa" in Vietnamese) developed in C#, highliting aspects of game development such as turn-based logic and multiplayer interactions</p>
-<h3>Game cờ tướng Chess 
+<h3>Game cờ tướng Chess C
   
 </h3>
