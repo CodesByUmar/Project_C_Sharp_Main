@@ -7,8 +7,7 @@
 <br>
 <h3>2. Chat trong mạng LAN C#</h3>
 <br>
-<p>Another LAN chat application, possibly with different features of implementation compared to the previous one. It reinforces understanding of socket programming in a LAN environment</p>
-<br>
+<p>Another LAN chat application, possibly with different features of implementation compared to the previous one. It reinforces understanding of socket programming in a LAN environment</p><br>
 <h3>3. Chuyển đổi các hệ cơ số C#</h3>
 <br>
 <p>A number base conversion tool that allows users to convert numbers between different bases (e.g., binary, deximal, hexadecimal). Useful for learning about numeral systems and their conversions.</p><br>
