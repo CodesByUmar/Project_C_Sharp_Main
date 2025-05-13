@@ -5,8 +5,7 @@
 <br>
 <p>♦ Implements a LAN chat application using TCP sockets in C#. This project demonstrates network programming concepts, including client-server architecture and socket communication.</p>
 <br>
-<h3>2. Chat trong mạng LAN C#</h3>
-<br>
+<h3>2. Chat trong mạng LAN C#</h3><br>
 <p>Another LAN chat application, possibly with different features of implementation compared to the previous one. It reinforces understanding of socket programming in a LAN environment</p><br>
 <h3>3. Chuyển đổi các hệ cơ số C#</h3>
 <br>
