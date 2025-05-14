@@ -1,4 +1,4 @@
-<h1> Project_C_Sharp_Main </h1>
+w<h1> Project_C_Sharp_Main </h1>
 <h2> Repository Structure Overview </h2>
 <h3> 1.Chat LAN sử dụng socket C#2/TCP_Private_Client </h3> 
 <p> Implements a LAN chat application using TCP sockets in C#. This project demonstrates network programming concepts, including client-server architecture and socket communication. </p>
@@ -13,4 +13,4 @@
 <h3> 6.Game cờ tướng Chess C# </h3>
 <p> A Chinese Chess(Xiangqi) game, showcasing complex game rules, AI for opponent moves, and a graphical user interface for gameplay </p>
 <h3> 7.Game cờ vua C# </h3>
-A standard Chess Game in
+A standard Chess Game in C
