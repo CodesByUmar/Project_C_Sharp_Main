@@ -13,6 +13,6 @@
 <h3> ✅6.Game cờ tướng Chess C# </h3>
 <p> A Chinese Chess(Xiangqi) game, showcasin' complex game rules, AI for opponent moves, and a graphical user interface for gameplay. </p>
 <h3> ✅7.Game cờ vua C# </h3>
-<p> A standard Chess Game in C#, emphasizin' object-oriented design, move validation, and possibly AI for single player mode.</p>
+<p> A standard Chess Game in C#, emphasizin' object-oriented design, move validation, and possibly AI for single player mode. </p>
 <h3> ✅8. Game line 2008 </h3>
 <p> Likely a clone or version of classic "Line 98" game, focusin' on pattern recognition, grid management and user interaction </p>
