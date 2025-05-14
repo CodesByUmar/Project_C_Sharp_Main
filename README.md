@@ -12,6 +12,6 @@
 <p> A Ludo game(known as"cờ cá ngựa" in Vietnamese) developed in C#, highlitin' aspects of game development such as turn-based logic and multiplayer interactions. </p>
 <h3> 6.Game cờ tướng Chess C# </h3>
 <p> A Chinese Chess(Xiangqi) game, showcasin' complex game rules, AI for opponent moves, and a graphical user interface for gameplay. </p>
-<h3> 7.Game cờ vua C# </h3>
+<h3> ✅7.Game cờ vua C# </h3>
 <p> A standard Chess Game in C#, emphasizin' object-oriented design, move validation, and possibly AI for single player mode.</p>
 ✅
