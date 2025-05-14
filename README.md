@@ -1,4 +1,4 @@
-<h1> 🧠Project_C_Sharp_Main </h1>
+![{F38B9D0A-CBA2-47D4-B4CF-55A776D2265F}](https://github.com/user-attachments/assets/07b3c57a-5c18-46ae-af15-b5f9ae6e83f7)<h1> 🧠Project_C_Sharp_Main </h1>
 <h2> 🏗️Repository Structure Overview </h2>
 <h3> ✅ 1.Chat LAN sử dụng socket C#2/TCP_Private_Client </h3> 
 <p> Implements a LAN chat application usin' TCP sockets in C#. This project demonstrates network programmin' concepts, includin' client-server architecture and socket communication. </p>
@@ -14,4 +14,4 @@
 <p> A Chinese Chess(Xiangqi) game, showcasin' complex game rules, AI for opponent moves, and a graphical user interface for gameplay. </p>
 <h3> ✅7.Game cờ vua C# </h3>
 <p> A standard Chess Game in C#, emphasizin' object-oriented design, move validation, and possibly AI for single player mode.</p>
-✅
+✅G
