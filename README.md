@@ -7,7 +7,7 @@
 <h3> 3. Chuyển đổi các hệ cơ số C# </h3>
 <p> A number base conversion tool that allows users to convert numbers between different bases (e.g., binary, deximal, hexadecimal). Useful for learnin' about numeral systems and their conversions. </p>
 <h3> 4. Game Sondoku C# </h3>
-<p> A Sudoku game implemented in C#, focusin on game logic, user interface design, and possibly puzzle generation and validation algorithms. </p>
+<p> A Sudoku game implemented in C#, focusin' on game logic, user interface design, and possibly puzzle generation and validation algorithms. </p>
 <h3> 5. Game cờ cá ngựa C# </h3>
 <p> A Ludo game(known as"cờ cá ngựa" in Vietnamese) developed in C#, highlitin' aspects of game development such as turn-based logic and multiplayer interactions </p>
 <h3> 6.Game cờ tướng Chess C# </h3>
